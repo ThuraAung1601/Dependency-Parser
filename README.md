@@ -1,4 +1,4 @@
-# Dependency-Parser
+# Dependency Parser Predictor
 Trains a neural network to predict the transitions of an arc standard neural network parser. <br>
 Explanation of the code:
 - conll_reader.py - data structures to represent a dependency tree, as well as functionality to read and write trees in the CoNLL-X format (explained below).
